@@ -9,9 +9,9 @@
   This data frame contains the following columns:
   \describe{
     \item{time}{
-      Time to death or on-study time, months 
+      Time to death or on-study time, months
     }
-    \item{delta}{
+    \item{death}{
       Death indicator (0=alive, 1=dead) 
     }
     \item{im}{

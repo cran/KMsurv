@@ -8,6 +8,9 @@
 \format{
   This data frame contains the following columns:
   \describe{
+    \item{Obs}{
+      Observation number
+    }
     \item{Z1}{
       Treatment: 0-routine bathing 1-Body cleansing
     }

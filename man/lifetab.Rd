@@ -40,7 +40,7 @@ lifetab(tis, ninit, nlost, nevent)
     function at the midpoint of the intervals}
   The row.names are the intervals.
 }
-\author{ Jun Yan \email{jyan@stat.wisc.edu} }
+\author{ Jun Yan \email{jyan@stat.uiowa.edu} }
 \examples{
 tis <- c(0, 2, 3, 5, 7, 11, 17, 25, 37, 53, NA)
 nsubs <- c(927, 848, 774, 649, 565, 449, 296, 186, 112, 27)
