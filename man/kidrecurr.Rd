@@ -26,7 +26,6 @@
     and truncated data}, Springer.
   McGilchrist and Aisbett 47 (1991):461-466.
 }
-}
 \examples{
 data(kidrecurr)
 }

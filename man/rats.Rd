@@ -1,4 +1,4 @@
-\name{bnct}
+\name{rats}
 \alias{rats}
 \non_function{}
 \title{data from Exercise 7.13, p225}
@@ -21,8 +21,6 @@
       Litter
     }
   }
-}
-\details{
 }
 \source{
   Klein and Moeschberger (1997) \emph{Survival Analysis Techniques for Censored

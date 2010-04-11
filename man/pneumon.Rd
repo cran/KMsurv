@@ -56,8 +56,6 @@
     }
   }
 }
-\details{
-}
 \source{
   Klein and Moeschberger (1997) \emph{Survival Analysis Techniques for Censored
     and truncated data}, Springer.
