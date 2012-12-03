@@ -1,15 +1,14 @@
 Package: KMsurv
-Version: 0.1-4
-Date: 2010/04/11
+Version: 0.1-5
+Date: 2012/12/03
 Title: Data sets from Klein and Moeschberger (1997), Survival Analysis
 Author: Original by Klein and Moeschberger, modifications by Jun Yan
-        <jyan@stat.uconn.edu>
-Maintainer: Jun Yan <jyan@stat.uconn.edu>
+        <jun.yan@uconn.edu>
+Maintainer: Jun Yan <jun.yan@uconn.edu>
 Description: Data sets and functions for Klein and Moeschberger (1997),
         "Survival Analysis, Techniques for Censored and Truncated
         Data", Springer.
-Depends: survival
 License: GPL (>= 3)
-Packaged: 2012-10-29 08:57:12 UTC; ripley
+Packaged: 2012-12-03 15:34:43 UTC; jyan
 Repository: CRAN
-Date/Publication: 2012-10-29 08:57:12
+Date/Publication: 2012-12-03 15:51:22
